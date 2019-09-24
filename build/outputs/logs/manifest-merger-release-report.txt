@@ -1,0 +1,316 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:2:1-114:12
+MERGED from [com.android.support:support-v4:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\3ce0da3248bf2662d0e1203933296b08\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\5c128b3268f67e45fa4f280ea0d30a4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\bfe4bd454a6b687a49fe21c105a12e6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\914b8b49ca8b1df95ce7c6b79f079c00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\9b0408de92ff87af3ec8bbebfea1ac11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\4c728fea53f0b0815ad14b9def8b9009\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\a74dc17483fea3e7cb24ffeb717310e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\24a6b31640943188a8812386916eba5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\6d5ad4351efbe6da2c81e894eca7b427\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\d411fc96c1ed4c84acd676be091770c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\fb045ddb464005692954985c8345cc00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\e3de475eb24f2abc10c84007dfd6322b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\7d23ad75987644eb43bb7f21bd5b415f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\ff5ccf689a4388409cb6130b822de74a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\72458dcd6bc3b1487e063cd0d5e45925\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\d042bb1f1e8cff75f67c1f8e107883ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\e4f0945681a1efe54fec30501432a0a2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\0036b1a49c08f9157a6bcbbdf21c21f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\038aff8a00324e9d1a0fb9cd4fe29a22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\bd95269cdb40a8b9bd9a7bd37147d1fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\39d55672c9dd2fbfbac78ea7b084bfed\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\9e2bdcda51a4781f1e04e0f2d39dc634\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\517b1ab591acd6f6ecdf802bbd68c781\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\bc5fbaf403eef7cebe2efbfb86187ce8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\63ee2973563be9a10f88dd7bb424771c\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:2:1-114:12
+INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:2:1-114:12
+	package
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:6:5-40
+		INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml
+application
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:8:5-98:19
+MERGED from [com.android.support:support-compat:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\ff5ccf689a4388409cb6130b822de74a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\ff5ccf689a4388409cb6130b822de74a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\72458dcd6bc3b1487e063cd0d5e45925\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\72458dcd6bc3b1487e063cd0d5e45925\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\ff5ccf689a4388409cb6130b822de74a\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:11:9-31
+	tools:ignore
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:12:9-48
+	android:icon
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:9:9-38
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:10:9-33
+activity#com.iflytek.voicedemo.MainActivity
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:13:9-24:20
+	android:screenOrientation
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:17:13-35
+	android:configChanges
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:15:13-133
+	android:icon
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:16:13-42
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:14:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:22:27-74
+activity#com.iflytek.speech.setting.TtsSettings
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:25:19-72
+activity#com.iflytek.speech.setting.IatSettings
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:27:9-28:20
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:27:19-72
+activity#com.iflytek.voicedemo.IatDemo
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:29:9-33:20
+	android:screenOrientation
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:32:13-49
+	android:configChanges
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:31:13-133
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:30:13-57
+activity#com.iflytek.voicedemo.AsrDemo
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:34:9-38:20
+	android:screenOrientation
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:37:13-49
+	android:configChanges
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:36:13-133
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:35:13-57
+activity#com.iflytek.voicedemo.TtsDemo
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:39:9-43:20
+	android:screenOrientation
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:42:13-49
+	android:configChanges
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:41:13-133
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:40:13-57
+activity#com.iflytek.voicedemo.IseDemo
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:44:9-48:20
+	android:screenOrientation
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:47:13-49
+	android:configChanges
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:46:13-133
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:45:13-57
+activity#com.iflytek.voicedemo.vocalverify.VocalVerifyDemo
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:49:9-53:20
+	android:screenOrientation
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:52:13-49
+	android:configChanges
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:51:13-133
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:50:13-77
+activity#com.iflytek.voicedemo.faceonline.OnlineFaceDemo
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:54:9-58:20
+	android:screenOrientation
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:57:13-49
+	android:configChanges
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:56:13-133
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:55:13-75
+activity#com.iflytek.voicedemo.IdentifyGroup.GroupManagerActivity
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:59:9-63:20
+	android:screenOrientation
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:62:13-49
+	android:configChanges
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:61:13-133
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:60:13-84
+activity#com.iflytek.voicedemo.IdentifyGroup.FaceIdentifyActivity
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:64:9-68:20
+	android:screenOrientation
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:67:13-49
+	android:configChanges
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:66:13-133
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:65:13-84
+activity#com.iflytek.voicedemo.IdentifyGroup.VocalIdentifyActivity
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:69:9-73:20
+	android:screenOrientation
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:72:13-49
+	android:configChanges
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:71:13-133
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:70:13-85
+activity#com.iflytek.voicedemo.IdentifyGroup.ResultIdentifyActivity
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:74:9-78:20
+	android:screenOrientation
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:77:13-49
+	android:configChanges
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:76:13-133
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:75:13-86
+activity#com.iflytek.speech.setting.IseSettings
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:79:9-83:20
+	android:screenOrientation
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:82:13-49
+	android:configChanges
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:81:13-133
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:80:13-66
+activity#com.iflytek.speech.setting.UrlSettings
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:84:9-88:20
+	android:screenOrientation
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:87:13-49
+	android:configChanges
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:86:13-133
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:85:13-66
+meta-data#IFLYTEK_APPKEY
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:90:9-92:42
+	android:value
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:92:13-29
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:91:13-42
+meta-data#IFLYTEK_CHANNEL
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:93:9-95:44
+	android:value
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:95:13-41
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:94:13-43
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:100:5-71
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:100:22-68
+uses-permission#android.permission.INTERNET
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:101:5-67
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:101:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:102:5-79
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:102:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:103:5-76
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:103:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:104:5-79
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:104:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:105:5-75
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:105:22-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:106:5-79
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:106:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:107:5-72
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:107:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:108:5-81
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:108:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:109:2-70
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:109:19-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:110:2-77
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:110:19-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:112:5-81
+	android:name
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml:112:22-78
+uses-sdk
+INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml
+INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\3ce0da3248bf2662d0e1203933296b08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\3ce0da3248bf2662d0e1203933296b08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\5c128b3268f67e45fa4f280ea0d30a4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\5c128b3268f67e45fa4f280ea0d30a4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\bfe4bd454a6b687a49fe21c105a12e6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\bfe4bd454a6b687a49fe21c105a12e6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\914b8b49ca8b1df95ce7c6b79f079c00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\914b8b49ca8b1df95ce7c6b79f079c00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\9b0408de92ff87af3ec8bbebfea1ac11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\9b0408de92ff87af3ec8bbebfea1ac11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\4c728fea53f0b0815ad14b9def8b9009\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\4c728fea53f0b0815ad14b9def8b9009\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\a74dc17483fea3e7cb24ffeb717310e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\a74dc17483fea3e7cb24ffeb717310e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\24a6b31640943188a8812386916eba5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\24a6b31640943188a8812386916eba5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\6d5ad4351efbe6da2c81e894eca7b427\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\6d5ad4351efbe6da2c81e894eca7b427\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\d411fc96c1ed4c84acd676be091770c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\d411fc96c1ed4c84acd676be091770c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\fb045ddb464005692954985c8345cc00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\fb045ddb464005692954985c8345cc00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\e3de475eb24f2abc10c84007dfd6322b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\e3de475eb24f2abc10c84007dfd6322b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\7d23ad75987644eb43bb7f21bd5b415f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\7d23ad75987644eb43bb7f21bd5b415f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\ff5ccf689a4388409cb6130b822de74a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\ff5ccf689a4388409cb6130b822de74a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\72458dcd6bc3b1487e063cd0d5e45925\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\72458dcd6bc3b1487e063cd0d5e45925\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\d042bb1f1e8cff75f67c1f8e107883ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\d042bb1f1e8cff75f67c1f8e107883ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\e4f0945681a1efe54fec30501432a0a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\e4f0945681a1efe54fec30501432a0a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\0036b1a49c08f9157a6bcbbdf21c21f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\0036b1a49c08f9157a6bcbbdf21c21f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\038aff8a00324e9d1a0fb9cd4fe29a22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\038aff8a00324e9d1a0fb9cd4fe29a22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\bd95269cdb40a8b9bd9a7bd37147d1fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\bd95269cdb40a8b9bd9a7bd37147d1fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\39d55672c9dd2fbfbac78ea7b084bfed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\39d55672c9dd2fbfbac78ea7b084bfed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\9e2bdcda51a4781f1e04e0f2d39dc634\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\9e2bdcda51a4781f1e04e0f2d39dc634\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\517b1ab591acd6f6ecdf802bbd68c781\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\517b1ab591acd6f6ecdf802bbd68c781\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\bc5fbaf403eef7cebe2efbfb86187ce8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\bc5fbaf403eef7cebe2efbfb86187ce8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\63ee2973563be9a10f88dd7bb424771c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] D:\Android\Android Studio\gradle\caches\transforms-2\files-2.1\63ee2973563be9a10f88dd7bb424771c\AndroidManifest.xml:20:5-44
+INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml
+INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml
+		ADDED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\download\Android_tts_online1138_5d65ded2\sample\speechDemo\src\main\AndroidManifest.xml
