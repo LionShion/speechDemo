@@ -1,4 +1,0 @@
-#Mon Sep 09 10:10:46 CST 2019
-base.0=D\:\\download\\Android_tts_online1138_5d65ded2\\sample\\speechDemo\\build\\intermediates\\transforms\\dexMerger\\debug\\2
-path.0=classes.dex
-renamed.0=classes.dex
